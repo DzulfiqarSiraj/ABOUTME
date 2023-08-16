@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DzulfiqarSiraj
-- 👀 I’m interested in Data Science/Data Analysis
-- 🌱 I’m currently learning Data Science Using Python, and SQL
+- 👋 Hi, I’m Dzulfiqar Siraj Shalahuddin
+- 👀 I’m interested in Web Design and Web Development
+- 🌱 I’m currently learning HTML, CSS, and Javacript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 Reach me on dzul.thpundip@gmail.com
 
 <!---
 DzulfiqarSiraj/DzulfiqarSiraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
